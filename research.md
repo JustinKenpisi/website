@@ -3,8 +3,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
-
 My research examines religion in its historical and social contexts.
 
 ## Benjamin Lay
