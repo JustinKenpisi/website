@@ -1,8 +1,3 @@
----
-title: Justin Meggitt
-
----
-
 
 
 Welcome to my website.
