@@ -1,3 +1,10 @@
 title: Justin Meggitt
 description: Research and teaching in the study of religion
 theme: minima
+
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - contact.md
