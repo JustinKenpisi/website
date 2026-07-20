@@ -1,8 +1,9 @@
 ---
-title: Home
+title: Justin Meggitt
+
 ---
 
-# Justin Meggitt
+
 
 Welcome to my website.
 
