@@ -13,7 +13,7 @@ I am currently Professor of the Study of Religion in the Faculty of Divinity, Un
 
 I supervise postgraduates in all my areas of research interest — ancient, early modern, and contemproary — and always happy to talk to prospective students.
 
-Finally, I should emphasise that I care a great deal about the public understanding of religion and the need to foster a critical and informed approach to today. So, if you think I can be of help, do contact me. 
+Finally, I should emphasise that I care a great deal about the public understanding of religion and the need to foster a critical and informed approach to its various forms today. So, if you think I can be of help, do contact me. 
 
 
 ## Contact
