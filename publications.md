@@ -1,3 +1,10 @@
+---
+title: Publications
+permalink: /publications/
+---
+
+# Publications
+
 This page includes all my publications without distinguishing between the different subject areas within which I work. 
 
  
