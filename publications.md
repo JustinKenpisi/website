@@ -3,7 +3,6 @@ title: Publications
 permalink: /publications/
 ---
 
-![Early Quakers and Islam cover](images/pic02.jpg)
 
 
 This page includes all my publications without distinguishing between the different subject areas within which I work. 
