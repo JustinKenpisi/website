@@ -1,9 +1,9 @@
 ---
-title: Conference papers and public presentations
+title: Presentations
 permalink: /lectures/
 ---
 
-
+## Conference papers and public talks
 
 *I have only begun keeping a record of these in the last decade.*
 
