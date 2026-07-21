@@ -54,7 +54,7 @@ However, from 2011, I have now begun documenting my various media work, and publ
 
 [Ask an Academic](http://www.cambridge-news.co.uk/Ask-academic-Dr-Justin-Meggitt/story-24284971-detail/story.html). (Cambridge News, 5 Nov 2014). Interview about my approach to the critical study of religion. Also [here.](https://www.justinmeggitt.info/s/CamNews5-11-2014.png)
 
-**Supping with the Devil at Madingley Hall: identity, heresy and witchcraft in 17th-century Cambridge** (Radio Cambridgeshire, 2 Nov 2014). An interview about my talk at the [Cambridge Festival of Ideas.](http://www.festivalofideas.cam.ac.uk/events/fully-booked-supping-devil-madingley-hall-identity-heresy-and-witchcraft-17th-century) A blog on the subject can be found [here.](http://www.ice.cam.ac.uk/who-we-are/institute-blogs/madingley-minds/1253-supping-with-the-devil)
+**Supping with the Devil at Madingley Hall: identity, heresy and witchcraft in 17th-century Cambridge** (Radio Cambridgeshire, 2 Nov 2014). An interview about my talk at the [Cambridge Festival of Ideas.](http://www.festivalofideas.cam.ac.uk/events/fully-booked-supping-devil-madingley-hall-identity-heresy-and-witchcraft-17th-century)
 
 [Is this the first ever sci-fi novel?](http://www.telegraph.co.uk/culture/books/10432784/Is-this-the-first-ever-sci-fi-novel.html) (Daily Telegraph, 07 Nov 2013; see also [Cambridge News](http://www.cambridge-news.co.uk/News/Cambridge-don-to-boldly-go-back-in-time-for-sci-fi-first-20131026060000.htm), [La Tercera](http://papeldigital.info/tendencias/2013/11/16/01/paginas/020.pdf) , Chile etc.) Some recent research on Lucian's *True History* that came to the attention of the press, both in the UK and overseas.
 
