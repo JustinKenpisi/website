@@ -1,6 +1,8 @@
 title: Justin Meggitt
-description: Research and Teaching in the Critical Study of Religion
+description:   
 theme: minima
+author:        
+
 
 header_pages:
   - about.md
