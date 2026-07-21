@@ -5,15 +5,13 @@ permalink: /lectures/
 
 
 
-I have only begun keeping a record of these in the last decade.
+*I have only begun keeping a record of these in the last decade.*
 
 
 
 'The Apocalyptic Littoral: Conceptualising Christadelphianism', Stockholm University, Högre seminariet i religionshistoria, 27 January 2026.
 
 '“Babilon's ‬‭Bastards‬‭[sic]”‬‭ and ‬‭the‬‭ End ‬‭of ‬‭Hell: ‬‭Apocalyptic,‬‭ Alterity,‬ and ‬‭Abolitionism‬‭ in‬‭ Benjamin ‬‭Lay's‬‭ All ‬‭Slave-Keepers‬‭. ‬‭Apostates‬‭',  Stockholm University, Högre seminariet i religionshistoria, 17 December 2024.
-
-
 
 
 
