@@ -1,4 +1,3 @@
-
 ---
 title: Research and Teaching in the Critical Study of Religion
 ---
