@@ -1,4 +1,7 @@
-## Conference papers and public presentations
+---
+title: Conference papers and public lectures
+permalink: /lectures/
+---
 
 
 
