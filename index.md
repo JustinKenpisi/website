@@ -17,7 +17,7 @@ I established and currently coordinate the MPhil Pathway in Religion and Conflic
 
 I also supervise postgraduates in all my areas of research interest — ancient, early modern, and contemporary — and am always happy to talk to prospective students.
 
-I was married to Melanie Jane Wright (1970-2011) who was, among other things, a scholar of modern Judaism and the study of religion and film. You can find her work [here](http://www.melaniewright.info).
+I was married to Melanie Jane Wright (1970-2011) who was, among other things, a scholar of modern Judaism and a pioneer in the study of religion and film. You can find her work [here](http://www.melaniewright.info).
 
 Finally, I should emphasise that I care a great deal about the public understanding of religion and the need to foster a critical and informed approach to its various forms today. So, if you think I can be of help, do contact me. 
 
