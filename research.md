@@ -45,5 +45,5 @@ One of my major areas of interest is religious radicalism in the early modern An
 - _Early Quakers and Islam: Slavery, Apocalyptic and Christian-Muslim Encounters in the Seventeenth Century,_ Studies on Inter-Religious Relations 59, Uppsala: Swedish Science Press, 2013.
 
 ### Apocalypticism and Millenarian Movements
-I also have an enduring interest in the social and historical consequences of beliefs concerning the imminent transformation of the world. This is most obvious in my current work as Project Lead of the [Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://censamm.org/) and its associated, open-access resource, [The Critical Dictionary of Apocalyptic and Millenarian Movements](https://www.cdamm.org/).
+I also have an enduring interest in the social and historical consequences of beliefs concerning the imminent transformation of the world. This is most obvious in my current work as Project Lead of the [Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://censamm.org/) and its associated, open-access resource, the [Critical Dictionary of Apocalyptic and Millenarian Movements](https://www.cdamm.org/).
 
