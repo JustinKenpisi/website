@@ -22,7 +22,7 @@ However, from 2011, I have now begun documenting my various media work, and publ
 
 **The Religious Context of the Gunpowder Plot** (Radio Cambridgeshire, 5 November 2017 - 7.10-30).
 
-[Early Unitarians and Islam: Radical Dissent and Its Consequences](https://youtu.be/qCi1g_ATNSA) (Unitarian Theology Conference, Mill Hill Chapel, Leeds, 14 October 2017)
+[Early Unitarians and Islam: Radical Dissent and Its Consequences](https://youtu.be/qCi1g_ATNSA) (Unitarian Theology Conference, Mill Hill Chapel, Leeds, 14 October 2017).
 
 **A Potential Anglican Schism?** (Radio Cambridgeshire, 30 July 2017 - 7.10-30).
 
