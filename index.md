@@ -1,11 +1,6 @@
-<style>
-  .footer {
-    display: none;
-  }
-</style>
 
 ---
-title: Research and Teaching in the Critical Study of Religion and Beyond
+title: Research and Teaching in the Critical Study of Religion
 ---
 
 ![Detail from ceiling of the Cambridge American Cemetery Chapel](images/pic01.jpg)
