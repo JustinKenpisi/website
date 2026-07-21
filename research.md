@@ -23,7 +23,7 @@ In addition to initiating the MPhil pathway in Religion and Conflict in the Facu
 
 Here are a couple of examples of my work:
 
-- ‘Putting the Apocalyptic Jesus to the Sword: Why were Jesus’ Disciples Armed?’ *Journal for the Study of the New Testament* 45.4 (2023), 371–404. DOI: https://doi.org/10.1177/0142064X221150484
+- ‘Putting the Apocalyptic Jesus to the Sword: Why were Jesus’ Disciples Armed?’ *Journal for the Study of the New Testament* 45.4 (2023), 371–404. DOI: [https://doi.org/10.1177/0142064X221150484](https://doi.org/10.1177/0142064X221150484)
 - ‘The Problem of Apocalyptic Terrorism.’ *Journal of Religion and Violence* 8.1 (2020), 58-104.
 
 ### Slavery
@@ -37,7 +37,7 @@ One of my main areas of research is the study of Christian origins. I have publi
 Although I have written a number of articles in this field (see Publications), my two books in this area might be of interest:
 
 - *Paul, Poverty and Survival,* Edinburgh: T&T Clark, 1998
-- *Studies in the Historical Jesus: Anarchy, Miracles, and Madness,* Critical Studies in Religion and History 1, Cambridge: Mutual Academic, 2023. Pdf available here: https://doi.org/10.17613/mpjp-3c10
+- *Studies in the Historical Jesus: Anarchy, Miracles, and Madness,* Critical Studies in Religion and History 1, Cambridge: Mutual Academic, 2023. Pdf available here: [https://doi.org/10.17613/mpjp-3c10](https://doi.org/10.17613/mpjp-3c10)
 
 ### Early Modern Religious Radicalism and Islam
 One of my major areas of interest is religious radicalism in the early modern Anglophone world, and, in particular, its perception of, and interaction with, Islam and Muslims. In addition to articles and chapters, I have published a book on the subject:
@@ -45,5 +45,5 @@ One of my major areas of interest is religious radicalism in the early modern An
 - _Early Quakers and Islam: Slavery, Apocalyptic and Christian-Muslim Encounters in the Seventeenth Century,_ Studies on Inter-Religious Relations 59, Uppsala: Swedish Science Press, 2013.
 
 ### Apocalypticism and Millenarian Movements
-I also have an enduring interest in the social and historical consequences of beliefs concerning the imminent transformation of the world. This is most obvious in my current work as Project Lead of the _Centre for the Critical Study of Apocalyptic and Millenarian Movements_ and its associated, open-access resource, _The Critical Dictionary of Apocalyptic and Millenarian Movements._
+I also have an enduring interest in the social and historical consequences of beliefs concerning the imminent transformation of the world. This is most obvious in my current work as Project Lead of the [Centre for the Critical Study of Apocalyptic and Millenarian Movements](https://censamm.org/) and its associated, open-access resource, [The Critical Dictionary of Apocalyptic and Millenarian Movements](https://www.cdamm.org/).
 
