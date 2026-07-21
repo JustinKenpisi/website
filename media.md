@@ -3,6 +3,8 @@ title: Media
 permalink: /media/
 ---
 
+⮕ **For media queries, please contact me at**: [jjm1000@cam.ac.uk](mailto:jjm1000@cam.ac.uk).
+
 
 Over the years I have been involved with various television and radio programmes, mostly about the origins of Christianity though also more widely in the critical study of religion. I have also provided some specialist advice for TV (such as the ['Messiah' drama TV series](https://en.wikipedia.org/wiki/Messiah_(British_TV_series)) on possible apocalyptic motifs) and, from time to time, had my research featured in newspapers and magazines. I have also regularly provided support to journalists working on religious themes in major UK media, including the Economist, the BBC, the Times and the Guardian. 
 
