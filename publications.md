@@ -6,7 +6,7 @@ permalink: /publications/
 
 ![Title page from early Quaker publication](images/pic05.jpg)
 
-(A sobering reminder about the limits of scholarship from the title page of an early modern book now found in the Cambridge University Library.)
+(A sobering reminder of the limits of scholarship from the title page of an early modern book now found in the University Library of Cambridge.)
 
 This page includes all my publications without distinguishing between the different subject areas within which I work. 
 
