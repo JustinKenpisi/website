@@ -1,7 +1,8 @@
 title: Justin Meggitt
 description:   
 theme: minima
-author:        
+author:
+logo: images/logo.svg
 
 plugins:
   - jekyll-remote-theme
