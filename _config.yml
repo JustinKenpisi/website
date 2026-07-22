@@ -3,10 +3,6 @@ description:
 theme: minima
 author:
 
-
-plugins:
-  - jekyll-remote-theme
-
 header_pages:
   - about.md
   - research.md
